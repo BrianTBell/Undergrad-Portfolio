@@ -1,4 +1,5 @@
-# Undergraduate Mechanical Engineer
+# Brian Bell
+![SPT Image](https://github.com/BrianTBell/Undergrad-Portfolio/blob/main/assets/prof_photo.JPG?raw=true)
 
 ## Personal Info
 My name is Brian Bell, and I was born and raised in Baltimore, Maryland. I moved to Brisbane, Australia to pursue my undergraduate degree in Mechanical Engineering. Throughout my studies, I have developed a strong passion for mechanics of materials, numerical modeling, CAD, and tackling coding challenges.
