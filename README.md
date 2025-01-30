@@ -6,6 +6,8 @@ My name is Brian Bell, and I was born and raised in Baltimore, Maryland. I moved
 I fervently believe in delivering high-quality results, and have a strong desire to continuously improve my skills, knowledge, and value. While I am still refining my long term career goals, I aim to contribute to innovative engineering projects that challenge my abilities. I am eager to demonstrate my ability, and I look forward to collaborating with a dynamic engineering team to drive the success of meaningful projects
 
 
+
+
 ## Project Showcase
 
 ### Project 1: Critical Analysis and Refinement of the Small Punch Test
@@ -26,6 +28,8 @@ I am developing this project at Queensland University of Technology (QUT), under
 
 #### Outcome/Results
 The project is still in progress. So far a Finite Element Model has been developed which can output results quantitatively similar to materials with moderate ductility. The next step is to broaden the functional data set to brittle and highly ductile materials. Subsequently the propagation of stress regimes will be studies for a number of materials with varying ductility.
+
+
 
 
 
